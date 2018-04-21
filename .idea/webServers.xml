@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa196b79-8c17-4ab5-b476-95c8be3fae13" name="10.0.0.18" url="http://10.0.0.15">
+        <fileTransfer host="10.0.0.15" port="4444">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="4444" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
